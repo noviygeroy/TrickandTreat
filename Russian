@@ -5394,37 +5394,37 @@ translate russian ed4_1977cc70:
 translate russian ed4_2aa65c68:
 
     # ruq "Tenerla tan cerca, a una chica tan hermosa, me pone muy nervioso."
-    ruq "Находиться так близко к ней, прекрасной девушке, заставляет меня сильно волноваться."
+    ruq "Перебувати так близько до неї, до прекрасної дівчини, змушує мене сильно хвилюватися."
 
 # game/tandt.rpy:1495
 translate russian ed4_bfe1e026:
 
     # ruaz "Esta es la despedida."
-    ruaz "Это прощание."
+    ruaz "Це прощання."
 
 # game/tandt.rpy:1496
 translate russian ed4_eec7b4c5:
 
     # ruq "Repentinamente dijo ella."
-    ruq "Резко говорит она."
+    ruq "Різко говорить вона."
 
 # game/tandt.rpy:1497
 translate russian ed4_c9b0a4bd:
 
     # ruq "Entonces ella aproxima sus labios en mi mejilla y me da un tierno beso."
-    ruq "Потом она подносит свои губы к моей щеке и дарит мне невинный поцелуй."
+    ruq "Потім вона підносить свої губи до моєї щоки і дарує мені безневинний поцілунок."
 
 # game/tandt.rpy:1505
 translate russian ed4_2335948f:
 
     # ruq "Todo se torna de color blanco en ese momento."
-    ruq "Все становится белым в этот момент."
+    ruq "Все стає білим в цей момент."
 
 # game/tandt.rpy:1506
 translate russian ed4_534666a3:
 
     # ruq "Todo pierde su color, todo… desaparece, todo… todo…"
-    ruq "Все теряет цвет, все исчезает, все... все..."
+    ruq "Все втрачає колір, все зникає, все ... все ..."
 
 # game/tandt.rpy:1512
 translate russian ed4_f9e06921:
@@ -5442,25 +5442,25 @@ translate russian ed4_d1556941:
 translate russian ed4_31c7bfbd:
 
     # ruq "Me encuentro fuera del bosque. "
-    ruq "Я снаружи леса."
+    ruq "Я зовні лісу."
 
 # game/tandt.rpy:1522
 translate russian ed4_744d2a35:
 
     # ruq "No tengo ninguna idea de cómo fue que llegue aquí pero llegué."
-    ruq "Я не знаю как я попал сюда, но это не наваждение."
+    ruq "Я не знаю як я потрапив сюди, але це не якась мана."
 
 # game/tandt.rpy:1523
 translate russian ed4_e179ca0a:
 
     # ruq "Me encuentro desconcertado como si hubiera estado caminando dormido."
-    ruq "Я обескуражен, как если бы я ходил во сне."
+    ruq "Я збентежений так, ніби б ходив уві сні."
 
 # game/tandt.rpy:1524
 translate russian ed4_8262a97c:
 
     # ruam "¡Axel! ¡Axel!"
-    ruam "Аксель! Аксель!"
+    ruam "Акселю! Акселю!"
 
 # game/tandt.rpy:1525
 translate russian ed4_6354306e:
