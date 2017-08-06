@@ -5466,79 +5466,79 @@ translate russian ed4_8262a97c:
 translate russian ed4_6354306e:
 
     # ruq "Repentinamente escucho a alguien llamándome."
-    ruq "Внезапно я слышу как кто-то зовет меня по имени."
+    ruq "Раптово я чую як хтось кличе мене по імені."
 
 # game/tandt.rpy:1526
 translate russian ed4_f6e2fde0:
 
     # ruq "Pero no se trata de ninguna extraña voz."
-    ruq "Но это не какой-то странный голос."
+    ruq "Але це не якийсь дивний голос."
 
 # game/tandt.rpy:1527
 translate russian ed4_d76c613d:
 
     # ruq "Es la voz de mis amigos los que están buscándome."
-    ruq "Это голоса моих друзей, которые ищут меня."
+    ruq "Це голоси моїх друзів, які шукають мене."
 
 # game/tandt.rpy:1528
 translate russian ed4_69e60a74:
 
     # ruy "¡Hey! ¡Por aquí!"
-    ruy "Эй! Сюда!"
+    ruy "Гей! Сюди!"
 
 # game/tandt.rpy:1529
 translate russian ed4_fa1e61f5:
 
     # ruq "Grité sin dudarlo ni un segundo, con un poco de torpeza por mi confusión."
-    ruq "Я кричу без колебаний, с небольшим затруднением из-за того, что у меня перехватило дыхание."
+    ruq "Я кричу без коливань, з невеликим затрудненням через те, що у мене перехопило подих."
 
 # game/tandt.rpy:1530
 translate russian ed4_aebfa294:
 
     # ruq "Pronto ellos me encuentran e impacientes corren hacia donde estoy. "
-    ruq "Вскоре они нашли меня и с нетерпением побежали ко мне."
+    ruq "Незабаром вони знайшли мене і з нетерпінням побігли до мене."
 
 # game/tandt.rpy:1531
 translate russian ed4_1c512093:
 
     # rus "¿Dónde estabas? Nos estabas matando la preocupación."
-    rus "Где ты был? Мы перепугались до смерти."
+    rus "Де ти був? Ми перелякалися до смерті."
 
 # game/tandt.rpy:1532
 translate russian ed4_56093f18:
 
     # ruq "Dijo Steven con una cara que no recuerdo haberle visto nunca antes."
-    ruq "Сказал Стивен с таким лицом, которое я не помню, чтобы когда-нибудь видел раньше."
+    ruq "Сказав Стівен з таким обличчям, яке я не пам'ятаю, щоб коли-небудь бачив раніше."
 
 # game/tandt.rpy:1533
 translate russian ed4_d6e8fbcb:
 
     # ruq "Antes de responderle me froto la frente."
-    ruq "Перед тем как ответить я тру лоб."
+    ruq "Перед тим як відповісти я тру лоб."
 
 # game/tandt.rpy:1534
 translate russian ed4_054c2e8c:
 
     # ruy "Dentro del bosque, no encontraba la salida."
-    ruy "В лесу, я не мог найти выход."
+    ruy "У лісі, я не міг знайти вихід."
 
 # game/tandt.rpy:1535
 translate russian ed4_6c18a549:
 
     # ruq "Alfred estaba a punto de decir algo pero antes lo interrumpo."
-    ruq "Альфред собирался сказать что-то, но перед этим я перебил его."
+    ruq "Альфред збирався сказати щось, але я перебив його."
 
 # game/tandt.rpy:1536
 translate russian ed4_b07e05b1:
 
     # ruy "Pero bueno, no importa. Solo estaba perdido, lo importante es que estamos todos bien"
-    ruy "В любом случае, это не важно, я просто потерялся. Важно, что мы все целы."
+    ruy "У будь-якому випадку, це не важливо, я просто загубився. Важливо, що ми всі цілі."
 
 # game/tandt.rpy:1537
 translate russian ed4_64cf760c:
 
     # rus "Si, tienes razón."
-    rus "Да. Ты прав."
+    rus "Ага. Ти маєш рацію."
 
 # game/tandt.rpy:1538
 translate russian ed4_31d7a789:
@@ -5550,19 +5550,19 @@ translate russian ed4_31d7a789:
 translate russian ed4_1a80889d:
 
     # rua "Oigan ¿no sienten que estamos olvidando algo?"
-    rua "Эй, нет ощущения, что мы забыли что-то?"
+    rua "Гей, немає відчуття, що ми забули щось?"
 
 # game/tandt.rpy:1540
 translate russian ed4_e5bd4dc1:
 
     # ruq "Entonces murmuró Alfred, al mismo tiempo que baja la mirada pensativo."
-    ruq "Пробормотал Альфред, опуская взгляд в задумчивости."
+    ruq "Пробурмотів Альфред, опускаючи задумливий погляд."
 
 # game/tandt.rpy:1541
 translate russian ed4_e24660d2:
 
     # ruq "Repentinamente una imagen borrosa pasa por mi mente. "
-    ruq "Внезапно, размытый образ появился у меня в голове."
+    ruq "Раптово, розмитий образ з'явився у мене в голові."
 
 # game/tandt.rpy:1542
 translate russian ed4_bd3a29dc:
