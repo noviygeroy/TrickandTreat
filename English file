@@ -5394,37 +5394,37 @@ translate english ed4_1977cc70:
 translate english ed4_2aa65c68:
 
     # q "Tenerla tan cerca, a una chica tan hermosa, me pone muy nervioso."
-    q "Having her so close, a beautiful girl, makes me very nervous."
+    q "Бути так близько біля неї, біля такої гарної дівчини змушує мене нервуватися."
 
 # game/tandt.rpy:1461
 translate english ed4_bfe1e026:
 
     # az "Esta es la despedida."
-    az "This is the farewell."
+    az "Це прощання."
 
 # game/tandt.rpy:1462
 translate english ed4_eec7b4c5:
 
     # q "Repentinamente dijo ella."
-    q "She suddenly said."
+    q "Раптом вона сказала."
 
 # game/tandt.rpy:1463
 translate english ed4_c9b0a4bd:
 
     # q "Entonces ella aproxima sus labios en mi mejilla y me da un tierno beso."
-    q "She then brings her lips to my cheek and gives me a tender kiss."
+    q "Тоді вона підносить губи до щічки і пропонує мені тендітний поцілунок."
 
 # game/tandt.rpy:1471
 translate english ed4_2335948f:
 
     # q "Todo se torna de color blanco en ese momento."
-    q "Everything becomes white at that moment."
+    q "Все побіліло в цей момент."
 
 # game/tandt.rpy:1472
 translate english ed4_534666a3:
 
     # q "Todo pierde su color, todo… desaparece, todo… todo…"
-    q "Everything loses its color, everything... is gone, everything... everything..."
+    q "Все втратило свій колір все...зникло...все..."
 
 # game/tandt.rpy:1482
 translate english ed4_d1556941:
@@ -5436,91 +5436,91 @@ translate english ed4_d1556941:
 translate english ed4_31c7bfbd:
 
     # q "Me encuentro fuera del bosque. "
-    q "I'm outside of the forest."
+    q "Я поза лісом."
 
 # game/tandt.rpy:1484
 translate english ed4_744d2a35:
 
     # q "No tengo ninguna idea de cómo fue que llegue aquí pero llegué."
-    q "I have no idea of how I made it here, but this is no illusion."
+    q "Я не маю жодного уявлення про те, як я опинився в цьому лісі, але точно не якась мана."
 
 # game/tandt.rpy:1485
 translate english ed4_e179ca0a:
 
     # q "Me encuentro desconcertado como si hubiera estado caminando dormido."
-    q "I am bewildered, as if I had been sleepwalking."
+    q "Я здивований, ніби б я ходив уві сні."
 
 # game/tandt.rpy:1486
 translate english ed4_8262a97c:
 
     # enam "¡Axel! ¡Axel!"
-    enam "¡Axel! ¡Axel!"
+    enam "Аксель! Аксель!"
 
 # game/tandt.rpy:1487
 translate english ed4_6354306e:
 
     # q "Repentinamente escucho a alguien llamándome."
-    q "Suddenly I hear someone calling my name."
+    q "Раптом я чую, як хтось говорить моє ім'я."
 
 # game/tandt.rpy:1488
 translate english ed4_f6e2fde0:
 
     # q "Pero no se trata de ninguna extraña voz."
-    q "But it’s not any strange voice."
+    q "Але це не якийсь дивний голос."
 
 # game/tandt.rpy:1489
 translate english ed4_d76c613d:
 
     # q "Es la voz de mis amigos los que están buscándome."
-    q "It’s the voices of my friends who are looking for me."
+    q "Це голоси моїх друзів, які шукають мене."
 
 # game/tandt.rpy:1490
 translate english ed4_69e60a74:
 
     # y "¡Hey! ¡Por aquí!"
-    y "Hey! Over here!"
+    y "Гей! Сюди!"
 
 # game/tandt.rpy:1491
 translate english ed4_fa1e61f5:
 
     # q "Grité sin dudarlo ni un segundo, con un poco de torpeza por mi confusión."
-    q "I shout without a second of hesitation, with a bit of clumsiness because of my confusion."
+    q "Я кричу без коливань, з невеликим затрудненням через те, що у мене перехопило подих."
 
 # game/tandt.rpy:1492
 translate english ed4_aebfa294:
 
     # q "Pronto ellos me encuentran e impacientes corren hacia donde estoy. "
-    q "Soon they found me and impatiently run towards me."
+    q "Незабаром вони знайшли мене і з нетерпінням побігли до мене."
 
 # game/tandt.rpy:1493
 translate english ed4_1c512093:
 
     # s "¿Dónde estabas? Nos estabas matando la preocupación."
-    s "Where were you? The worry was killing us."
+    s "Де ти був? Ми перелякалися до смерті."
 
 # game/tandt.rpy:1494
 translate english ed4_56093f18:
 
     # q "Dijo Steven con una cara que no recuerdo haberle visto nunca antes."
-    q "Steven said with a face that I don’t remember having ever seen before."
+    q "Сказав Стівен з таким обличчям, яке я не пам'ятаю, щоб коли-небудь бачив раніше"
 
 # game/tandt.rpy:1495
 translate english ed4_d6e8fbcb:
 
     # q "Antes de responderle me froto la frente."
-    q "Before answering I rub my forehead."
+    q "Перед тим як відповісти я тру лоб."
 
 # game/tandt.rpy:1496
 translate english ed4_054c2e8c:
 
     # y "Dentro del bosque, no encontraba la salida."
-    y "Within the forest, I couldn't find the exit."
+    y "У лісі, я не міг знайти вихід."
 
 # game/tandt.rpy:1497
 translate english ed4_6c18a549:
 
     # q "Alfred estaba a punto de decir algo pero antes lo interrumpo."
-    q "Alfred was about to say something but before that I interrupt him."
+    q "Альфред збирався сказати щось, але я перебив його."
 
 # game/tandt.rpy:1498
 translate english ed4_b07e05b1:
