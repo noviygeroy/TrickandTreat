@@ -5526,13 +5526,13 @@ translate english ed4_6c18a549:
 translate english ed4_b07e05b1:
 
     # y "Pero bueno, no importa. Solo estaba perdido, lo importante es que estamos todos bien"
-    y "Anyway, it doesn't matter, I was just lost. The important thing is that we are all safe."
+    y "Як би там не було, це не важливо. Треба радіти тому, що ми всі цілі."
 
 # game/tandt.rpy:1499
 translate english ed4_64cf760c:
 
     # s "Si, tienes razón."
-    s "Yes, you’re right."
+    s "Так, ти правий."
 
 # game/tandt.rpy:1500
 translate english ed4_31d7a789:
@@ -5544,61 +5544,61 @@ translate english ed4_31d7a789:
 translate english ed4_1a80889d:
 
     # a "Oigan ¿no sienten que estamos olvidando algo?"
-    a "Hey don’t you feel that we are forgetting something?"
+    a "Хіба ти не відчуваєш, що ми щось забули"
 
 # game/tandt.rpy:1502
 translate english ed4_e5bd4dc1:
 
     # q "Entonces murmuró Alfred, al mismo tiempo que baja la mirada pensativo."
-    q "Alfred murmured at the same time he lowers his sight pensive."
+    q "Альфред пробумотів, в той же час, опустивши свій погляд донизу."
 
 # game/tandt.rpy:1503
 translate english ed4_e24660d2:
 
     # q "Repentinamente una imagen borrosa pasa por mi mente. "
-    q "Suddenly a blurry image appears in my mind."
+    q "Раптом в моїй голові з'явяється розмитий образ."
 
 # game/tandt.rpy:1504
 translate english ed4_bd3a29dc:
 
     # q "Era algo blanco y brillante, pero no puedo recordar más."
-    q "It was white and bright, but I can't remember more."
+    q "Це було щось світле і яскраве, але більше я не можу пригадати"
 
 # game/tandt.rpy:1505
 translate english ed4_292be38e:
 
     # q "Sin embargo aun ese débil recuerdo despierta una extraña sensación de nostalgia en mi."
-    q "However that weak memory awakes a strange feeling of nostalgia in me."
+    q "Проте ці слабкі спогади пробуджують відчуття ностальгії в моїй голові"
 
 # game/tandt.rpy:1506
 translate english ed4_dc384338:
 
     # q "Era como si hubiera perdido algo ¿pero que podría ser?"
-    q "It was as if I had lost something, but what could it be?"
+    q "Здавалося, ніби я щось втратив, але...що?"
 
 # game/tandt.rpy:1507
 translate english ed4_306c47bc:
 
     # y "En fin, deberíamos volver a casa."
-    y "Anyway, we should go home."
+    y "Ну і біс з ним. Зараз варто йти додому"
 
 # game/tandt.rpy:1508
 translate english ed4_100bbd4d:
 
     # y "Esto ya fue muy lejos para una prueba de valor."
-    y "This has gone too far for a test of courage."
+    y "Ця штука зайшла надто далеко, як для простого тесту на хоробрість."
 
 # game/tandt.rpy:1509
 translate english ed4_3da3d20c:
 
     # q "Dije sin la intención de pasar un minuto más en este bosque. "
-    q "I said with no intention of spending one more minute in this forest."
+    q "Я сказав це, не маючи ніякого наміру проводити ще більше часу у цьому лісі ."
 
 # game/tandt.rpy:1510
 translate english ed4_6f270991:
 
     # q "Todos me afirman con la mirada. No hay más de que discutir, solo nos queda volver. "
-    q "They both agree with me. With nothing else to say we can only return home."
+    q "Вони обоє погодилися зі мною. Не маючи нічого сказати одне одному, ми пішли."
 
 # game/tandt.rpy:1511
 translate english ed4_5214e234:
